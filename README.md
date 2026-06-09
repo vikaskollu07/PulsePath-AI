@@ -52,13 +52,6 @@ To make it production-real-time later, connect the dashboard to a backend such a
 - Recalculate risk scores when events arrive.
 - Keep all data synthetic so the project never touches real patient information.
 
-## What recruiters should notice
 
-- Product sense: the interface is built around real healthcare workflows like care gaps, readmission risk, medication access, and specialist follow-up.
-- Frontend craft: responsive layout, polished visual hierarchy, interactive state, generated visual asset, and accessible semantic structure.
-- Data storytelling: risk scores are paired with explanations and actions instead of being presented as black-box numbers.
-- Responsible AI awareness: the app explicitly avoids PHI and frames the model as decision support, not autonomous diagnosis.
-
-## Suggested resume bullet
 
 Built PulsePath AI, a privacy-safe healthcare analytics dashboard that simulates patient risk stratification, explainable intervention recommendations, cohort trend monitoring, and care-gap prioritization using HTML, CSS, JavaScript, and synthetic data.
